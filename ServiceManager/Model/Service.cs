@@ -17,7 +17,7 @@ namespace ServiceManager.Model
             this.DisplayName = displayName;
         }
 
-
+         
         [XmlElement(ElementName = "Name")]
         public string Name { get; set; }
 
