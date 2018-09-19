@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ServiceCollection>
+  <ServiceList>
+    <Service>
+      <Name>MSSQL$NEW_MSSQLSERVER</Name>
+      <DisplayName>SQL Server (NEW_MSSQLSERVER)</DisplayName>
+    </Service>
+    <Service>
+      <Name>SQLAgent$NEW_MSSQLSERVER</Name>
+      <DisplayName>SQL Server Agent (NEW_MSSQLSERVER)</DisplayName>
+    </Service>
+  </ServiceList>
+</ServiceCollection>
